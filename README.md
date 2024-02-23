@@ -1,4 +1,3 @@
-# Data Analyst
 
 #Education
 B.Sc. (Specialization in Computer Science)
