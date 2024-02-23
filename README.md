@@ -43,13 +43,16 @@ students' understanding and grades in
 methods!
 
 #Achievements
+
 Innovative Startup Idea Recognition:
 (07/2023 - 10/2023)
 Awarded a cash prize of 5000 by [KURUKSHETRA UNIVERSITY]
 for presenting an outstanding and innovative startup idea at
 [AAGAZ].Conceptualized and pitched [ Idea on Infrastructure
 Development ], demonstrating entrepreneurial acumen and
-creativity. Recommendation Letter:
+creativity.
+
+Recommendation Letter:
 Received a letter of recommendation from [Dyal Singh Public
 School,Sector-7] for exceptional academic performance .
 
