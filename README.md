@@ -1,10 +1,10 @@
 
-#Education
+# Education
 B.Sc. (Specialization in Computer Science)
 DYAL SINGH COLLEGE, KARNAL
 10/2021 - 07/2024, Karnal,Haryana
 
-#Projects
+# Projects
 HR ATTRITION DASHBOARD CREATION
 (11/2023 - 12/2023) "Developed an insightful HR Attrition Dashboard
 using advanced Excel functionalities, offering a
@@ -21,7 +21,7 @@ and consumption habits. Demonstrated proficiency in data visualization and
 analysis techniques while contributing to the understanding of modern 
 streaming culture."
 
-#Work Experience
+# Work Experience
 TUTOR
 Instructed and mentored students in
 classes 9-12, fostering a dynamic
@@ -41,7 +41,7 @@ students' understanding and grades in
 [Mathematics] by employing tailored teaching
 methods!
 
-#Achievements
+# Achievements
 
 Innovative Startup Idea Recognition:
 (07/2023 - 10/2023)
